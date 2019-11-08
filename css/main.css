@@ -1,0 +1,15 @@
+body {
+    margin: 50px;
+}
+.div, .imgs, h1, footer {
+    text-align: center;
+}
+#bio {
+    font-size: 22px;
+    max-width: 660px;
+    margin: auto;
+}
+hr {
+    border-width: 4px;
+    border-color: #000;
+}
